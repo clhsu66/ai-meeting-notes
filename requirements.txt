@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+sqlalchemy
+google-auth
+google-auth-oauthlib
+google-api-python-client
+pydantic
+psycopg2-binary
